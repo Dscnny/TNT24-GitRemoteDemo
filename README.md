@@ -4,3 +4,4 @@ I am adding a small change in my README to push to remote
 Small change
 Small changes 
 Small chnag
+Editing the README form the GitHub direct to pull to local git
